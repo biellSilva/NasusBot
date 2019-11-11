@@ -1,0 +1,21 @@
+{
+  "name": "nasusbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "download-file": "^0.1.5",
+    "gif-to-apng": "^0.1.2",
+    "jimp": "^0.6.0",
+    "nodemon": "^1.19.4",
+    "uuid": "^3.3.3"
+  }
+}
